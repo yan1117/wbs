@@ -1,0 +1,1 @@
+function fn(o,l){console.log(o),console.log(l)}console.log(11),console.log(22);
